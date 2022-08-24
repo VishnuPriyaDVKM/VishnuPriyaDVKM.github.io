@@ -1,0 +1,14 @@
+body{
+    background-image:url("../images/ll.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2{
+    color:white;
+    margin-top:40px;
+}
+marquee{
+    margin-top:40px;
+}
